@@ -7,7 +7,9 @@ Receives list of store hours that are formatted as such:
 >Sun: 10:00 am - 9:00 pm
 
 >Mon-Fri: 10:00 am - 10:00pm
+
 >Sat: 11:00 am - 10:00pm
+
 >Sun: 12:00 pm - 10:00pm
   
 And reformats them to look like:
