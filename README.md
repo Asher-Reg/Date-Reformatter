@@ -1,4 +1,4 @@
-# Date-Reformatter
+# Store Hours Reformatter
 
 Receives list of store hours that are formatted as such:
 
