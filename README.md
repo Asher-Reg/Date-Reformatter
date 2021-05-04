@@ -4,7 +4,6 @@ Receives list of store hours that are formatted as such:
 
 >Mon-Sat: 9:00 am – 11:00 pm
 >
->
 >Sun: 10:00 am - 9:00 pm
 
   Mon-Fri: 10:00 am - 10:00pm
