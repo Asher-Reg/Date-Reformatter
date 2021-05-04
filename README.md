@@ -14,6 +14,6 @@ Receives list of store hours that are formatted as such:
   
 And reformats them to look like:
 
->Monday, Saturday, 10:00 am,11:00 pm, Sunday, 10:00 am, 9:00 pm
+>Monday, Saturday, 10:00 am, 11:00 pm, Sunday, 10:00 am, 9:00 pm
   
 >Monday, Friday, 10:00 am, 10:00pm, Saturday, 11:00 am, 10:00 pm, Sunday, 12:00 pm, 10:00 pm
